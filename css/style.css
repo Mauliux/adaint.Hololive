@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+main section{
+    
+    padding-top: 0px;
+    
+    margin: 0px;
+    
+    
+}  
+nav {
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0%;
+    position: absolute;
+    background-color: transparent;
+    width: 100%;
+    
+}
+.log {
+    padding-top: 3px;
+    padding-right: 1180px;
+}
+
+#s1 {
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    background-color: black;
+    text-align: center;
+    height: 110vh;
+    
+}
+.primario {
+    background-color: #15b8f8;
+    border: 1px solid #00fafa;
+    border-radius: 3px;
+    color: #231E39;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+   
+}
+#im1 {
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    color: rgb(162, 187, 255);
+    font-family:'Roboto';
+    text-align: center;
+    
+    font-size: 50px;
+    
+}
+h3 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+#s2 {
+    background-color: rgb(8, 11, 53);
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+    height: 115vh;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+#flex {
+    display: flex;
+    justify-content: space-around;
+}
+h2 {
+    color: aliceblue;
+}
+.n{
+    list-style-type: none;
+    line-height: 3rem;
+    font-size: 20px;
+    color: aliceblue;
+}
+#s3 {
+    background-color: rgb(30, 8, 44);
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+    height: 115vh;
+}
+#s4 {
+    background-color: rgb(2, 12, 34);
+    height: 115vh;
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+}
+#s5 {
+    background-color: rgb(9, 20, 31);
+    height: 112vh;
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+}
+#s6 {
+    background-color: rgb(2, 26, 24);
+    height: 110vh;
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+
+}
+#s7 {
+    background-color: #0b081a;
+    height: 115vh;
+    background-position: center center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    text-align: center;
+}
+p {
+    color: white;
+}
+#buttons {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    font-size: 25px;
+}
+#esp {
+    padding-top: 180px;
+
+}
